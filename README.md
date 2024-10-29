@@ -2,6 +2,9 @@
 
 AutoFormFiller is a Python project built to automatically fill and submit online forms. This project uses the Selenium library to interact with elements on the web page, saving users time by automating the process of entering data and submitting forms.
 
+## Google form link for trial version
+https://forms.gle/Hs9sWC7SFnSL6ZLp7
+
 ## Features
 
 - **Autofill information**: Enter answers from the `answer.txt` file into the corresponding fields in the form.
@@ -18,3 +21,4 @@ To run this project, you need to have Python and the Selenium library installed.
 
 ```bash
 pip install selenium
+
